@@ -1,0 +1,17 @@
+* {
+	background-color: pink;
+	color: purple;
+	text-align: center;
+	font-family: 'Mirza', cursive;
+}
+.gallery {
+	height: 500px;
+}
+
+.gallery img {
+	float: left;
+	display: inline-block;
+	width: 30%;
+	border: 5px purple groove;
+	margin: 3px;
+}
